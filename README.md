@@ -1,9 +1,7 @@
 # 💫 About Me
-🔹 I am **Ruben Vardanyan**, living in **Yerevan, Armenia**. Currently, I study at the **National Polytechnic University of Armenia** in the **Information Technology** faculty.  
-🔹 I have experience in **API management**, **API architecture**, and **database integrations**, as well as backend logic with **Python**.  
+🔹 I am Ruben Vardanyan, living in Yerevan, Armenia. Currently, I study at the National Polytechnic University of Armenia in the Information Technology faculty.
+🔹 I work as a Python Developer, with experience in API management, API architecture, and database integrations, as well as backend logic with Python.
 🔹 I am capable of creating responsive and dynamic frontend parts, but I primarily focus on backend development. However, as an enthusiast, I continue to develop my frontend skills as well.
-
-
 
 ## 🌐 Socials:
 [![CodePen](https://img.shields.io/badge/CodePen-%231D1F21.svg?logo=CodePen&logoColor=white)](https://codepen.io/ruben-vardanyan/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/linkedin.com/in/ruben-vardanyan-programmer) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/https://pin.it/2pg2zesYF) 
