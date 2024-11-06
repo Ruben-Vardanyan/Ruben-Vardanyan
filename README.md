@@ -6,12 +6,24 @@
 
 
 ## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/_ruben__vardanyan_/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/linkedin.com/in/ruben-vardanyan-programmer) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/https://pin.it/2pg2zesYF) [![CodePen](https://img.shields.io/badge/CodePen-%231D1F21.svg?logo=CodePen&logoColor=white)](https://codepen.io/ruben-vardanyan/)
-
+[![CodePen](https://img.shields.io/badge/CodePen-%231D1F21.svg?logo=CodePen&logoColor=white)](https://codepen.io/ruben-vardanyan/)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/_ruben__vardanyan_/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/linkedin.com/in/ruben-vardanyan-programmer) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/https://pin.it/2pg2zesYF) 
 
 ## 💻 Tech Stack:
 #### Backend & Frontend
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![DjangoREST](https://img.shields.io/badge/DJANGO-REST-ff1709?style=for-the-badge&logo=django&logoColor=white&color=ff1709&labelColor=gray) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![SQLAlchemy](https://img.shields.io/badge/sqlalchemy-%23B02804.svg?style=for-the-badge&logo=python&logoColor=white) ![Requests](https://img.shields.io/badge/requests-%230072B5.svg?style=for-the-badge&logo=python&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![OS](https://img.shields.io/badge/os-%234D4D4D.svg?style=for-the-badge&logo=python&logoColor=white) ![API Management](https://img.shields.io/badge/api_management-%230049E8.svg?style=for-the-badge&logo=api&logoColor=white) ![Java](https://img.shields.io/badge/Java-%23F89820.svg?style=for-the-badge&logo=openjdk&logoColor=white) 
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
+![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) 
+![DjangoREST](https://img.shields.io/badge/DJANGO-REST-ff1709?style=for-the-badge&logo=django&logoColor=white&color=ff1709&labelColor=gray) 
+![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) 
+![SQLAlchemy](https://img.shields.io/badge/sqlalchemy-%23B02804.svg?style=for-the-badge&logo=python&logoColor=white) 
+![Requests](https://img.shields.io/badge/requests-%230072B5.svg?style=for-the-badge&logo=python&logoColor=white) 
+![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) 
+![OS](https://img.shields.io/badge/os-%234D4D4D.svg?style=for-the-badge&logo=python&logoColor=white) 
+![Daphne](https://img.shields.io/badge/daphne-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) 
+![Channels](https://img.shields.io/badge/channels-%234D4D4D.svg?style=for-the-badge&logo=django&logoColor=white) 
+![WebSocket](https://img.shields.io/badge/websocket-%23000000.svg?style=for-the-badge&logo=websocket&logoColor=white)
+![API Management](https://img.shields.io/badge/api_management-%230049E8.svg?style=for-the-badge&logo=api&logoColor=white) 
+![Java](https://img.shields.io/badge/Java-%23F89820.svg?style=for-the-badge&logo=openjdk&logoColor=white)  
 
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![ES6](https://img.shields.io/badge/ES6-%2300BFFF.svg?style=for-the-badge&logo=javascript&logoColor=white) ![ES7](https://img.shields.io/badge/ES7-%23F6E02D.svg?style=for-the-badge&logo=javascript&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![JSX](https://img.shields.io/badge/jsx-%23323330.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white) ![Styled Components](https://img.shields.io/badge/styled--components-%23DB7093.svg?style=for-the-badge&logo=styled-components&logoColor=white) ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Ant-Design](https://img.shields.io/badge/-AntDesign-%230170FE?style=for-the-badge&logo=ant-design&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) 
 
