@@ -4,7 +4,7 @@
 🔹 I am capable of creating responsive and dynamic frontend parts, but I primarily focus on backend development. However, as an enthusiast, I continue to develop my frontend skills as well.
 
 ## 🌐 Socials:
-[![CodePen](https://img.shields.io/badge/CodePen-%231D1F21.svg?logo=CodePen&logoColor=white)](https://codepen.io/ruben-vardanyan/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ruben-vardanyan-programmer/) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/https://pin.it/2pg2zesYF) 
+[![CodePen](https://img.shields.io/badge/CodePen-%231D1F21.svg?logo=CodePen&logoColor=white)](https://codepen.io/ruben-vardanyan/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ruben-vardanyan-programmer/) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pin.it/2pg2zesYF) 
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/_ruben__vardanyan_/)
 
 ## 💻 Tech Stack:
