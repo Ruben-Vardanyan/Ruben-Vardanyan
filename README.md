@@ -5,7 +5,7 @@
 
 ## 🌐 Socials:
 [![CodePen](https://img.shields.io/badge/CodePen-%231D1F21.svg?logo=CodePen&logoColor=white)](https://codepen.io/ruben-vardanyan/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ruben-vardanyan-programmer/) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/https://pin.it/2pg2zesYF) 
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/_ruben__vardanyan_/)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/_ruben__vardanyan_/)
 
 ## 💻 Tech Stack:
 #### Backend & Frontend
