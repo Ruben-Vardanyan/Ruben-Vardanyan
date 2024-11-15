@@ -20,7 +20,7 @@
 ![Daphne](https://img.shields.io/badge/daphne-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) 
 ![Channels](https://img.shields.io/badge/channels-%234D4D4D.svg?style=for-the-badge&logo=django&logoColor=white) 
 ![WebSocket](https://img.shields.io/badge/websocket-%23000000.svg?style=for-the-badge&logo=websocket&logoColor=white)
-![API Enginering](https://img.shields.io/badge/api_management-%230049E8.svg?style=for-the-badge&logo=api&logoColor=white) 
+![API Enginering](https://img.shields.io/badge/api_enginering-%230049E8.svg?style=for-the-badge&logo=api&logoColor=white) 
 ![Java](https://img.shields.io/badge/Java-%23F89820.svg?style=for-the-badge&logo=openjdk&logoColor=white)  
 
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![ES6](https://img.shields.io/badge/ES6-%2300BFFF.svg?style=for-the-badge&logo=javascript&logoColor=white) ![ES7](https://img.shields.io/badge/ES7-%23F6E02D.svg?style=for-the-badge&logo=javascript&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![JSX](https://img.shields.io/badge/jsx-%23323330.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
